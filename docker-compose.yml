@@ -1,0 +1,6 @@
+﻿services:
+  practice_class:
+    image: practice_class
+    build:
+      context: .
+      dockerfile: Practice_Class/Dockerfile

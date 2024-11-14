@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\ConsolePrograms\Practice_Class\Practice_Class\bin\Debug\net7.0\Practice_Class.exe
+C:\Users\Hp\Desktop\ConsolePrograms\Practice_Class\Practice_Class\bin\Debug\net7.0\Practice_Class.deps.json
+C:\Users\Hp\Desktop\ConsolePrograms\Practice_Class\Practice_Class\bin\Debug\net7.0\Practice_Class.runtimeconfig.json
+C:\Users\Hp\Desktop\ConsolePrograms\Practice_Class\Practice_Class\bin\Debug\net7.0\Practice_Class.dll
+C:\Users\Hp\Desktop\ConsolePrograms\Practice_Class\Practice_Class\bin\Debug\net7.0\Practice_Class.pdb
+C:\Users\Hp\Desktop\ConsolePrograms\Practice_Class\Practice_Class\obj\Debug\net7.0\Practice_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\ConsolePrograms\Practice_Class\Practice_Class\obj\Debug\net7.0\Practice_Class.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\ConsolePrograms\Practice_Class\Practice_Class\obj\Debug\net7.0\Practice_Class.AssemblyInfo.cs
+C:\Users\Hp\Desktop\ConsolePrograms\Practice_Class\Practice_Class\obj\Debug\net7.0\Practice_Class.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\ConsolePrograms\Practice_Class\Practice_Class\obj\Debug\net7.0\Practice_Class.dll
+C:\Users\Hp\Desktop\ConsolePrograms\Practice_Class\Practice_Class\obj\Debug\net7.0\refint\Practice_Class.dll
+C:\Users\Hp\Desktop\ConsolePrograms\Practice_Class\Practice_Class\obj\Debug\net7.0\Practice_Class.pdb
+C:\Users\Hp\Desktop\ConsolePrograms\Practice_Class\Practice_Class\obj\Debug\net7.0\Practice_Class.genruntimeconfig.cache
+C:\Users\Hp\Desktop\ConsolePrograms\Practice_Class\Practice_Class\obj\Debug\net7.0\ref\Practice_Class.dll
